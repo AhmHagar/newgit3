@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HEELOOO
 
+=======
+HEllO
+>>>>>>> 7b2c40e6f244f3633f79eead055196daa1ef5cc1
